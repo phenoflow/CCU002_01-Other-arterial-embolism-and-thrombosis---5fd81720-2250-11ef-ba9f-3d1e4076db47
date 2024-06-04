@@ -1,0 +1,12 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/arterial-embolism-ccu002_01-other-arterial-embolism-and-thrombosis-thrombosis---secondary.py
+inputModule3:
+  class: File
+  path: python/output-cases.py
